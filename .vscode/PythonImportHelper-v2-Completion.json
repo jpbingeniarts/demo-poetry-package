@@ -12,7 +12,7 @@
         "kind": 6,
         "importPath": "demo_poetry_package.demo_lib",
         "description": "demo_poetry_package.demo_lib",
-        "peekOfCode": "class DemoLib:\n    @staticmethod\n    def help() -> str:\n        return \"allo de la lib\"",
+        "peekOfCode": "class DemoLib:\n    @staticmethod\n    def help() -> str:\n        return \"allo de la lib 0.1.1\"",
         "detail": "demo_poetry_package.demo_lib",
         "documentation": {}
     },

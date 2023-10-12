@@ -1,4 +1,4 @@
 class DemoLib:
     @staticmethod
     def help() -> str:
-        return "allo de la lib"
+        return "allo de la lib 0.1.1"
